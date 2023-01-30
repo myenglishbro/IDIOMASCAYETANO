@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#tarjetas{
+    display: flex;
+    justify-content: center;
+    background-color: #efefef;
+}
+
+.tarjeta img {
+    width: 100%;
+}
+.tarjeta {
+    width: 20%;
+    margin: 30px 30px 30px 30px;
+    background-color: white;
+    padding: 25px;
+    text-align: center;
+    box-shadow: 1px 1px 1px 0px #00000030;
+}
+h2{
+    font-size: 17px;
+    color: #aaa;
+}
+.profession{
+    color: #ccc;
+}
+.parrafo{
+    line-height: 30px;
+    color:#808080
+}
